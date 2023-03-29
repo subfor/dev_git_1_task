@@ -10,8 +10,8 @@ comment asking for clarification or changes.
 2. Lightly scan the message and contents of each commit, starting from the <br>
 beginning of the branch. Verify smallness and atomicity by checking that the <br>
 commit does one thing and that doesn’t include any incomplete implementations. <br>
-Recommend splitting or combining commits that are incorrectly scoped. <br>
-3.Thoroughly read each commit. Ensure the commit message sufficiently explains <br>
+Recommend splitting or combining commits that are incorrectly scoped.
+3. Thoroughly read each commit. Ensure the commit message sufficiently explains <br>
 the code by first checking that implementation matches the intent, then that the <br>
 code matches the stated implementation. Use the context and justification to <br>
 guide your understanding of the code. If any of the requisite information is missing, <br>
